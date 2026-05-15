@@ -1,23 +1,3 @@
-# PHP OOP Login/Register System
-
-A basic object oriented authentication system including the ability to register a user, log in and includes features like validation, remember me, user profiles, CSRF protection, secure password salting and various helper classes to make working with sessions, cookies, input and configuration easier. 
-
-This example is educational only and should be treated as such. You can find the Video Tutorials in the [Credit](#credit) section.
-
-## Getting Started
-
-There are 3 steps to get this example running.
-
-1. Upload the files to your web server
-2. Import the **db.sql** into you MySQL database server or run the contents in a SQL query.
-3. Adjust the database connection in the **core/init.php** file.
-
-That's it! You can now navigate to address where the files are hosted and run the **index.php**.
-
-### Credit
-
-The credit goes for Alex [@Codecourse](https://codecourse.com/) former PHPAcademy
-
-Video tutorials: [YouTube Playlist - OOP Login/Register System](https://www.youtube.com/playlist?list=PLfdtiltiRHWF5Rhuk7k4UAU1_yLAZzhWc)
-
-Thank you Alex for this great Tutorial!
+<img width="2483" height="997" alt="2026-05-15_175410" src="https://github.com/user-attachments/assets/fde85ed3-d7d2-4bbc-abe2-307b48d1870e" />
+<img width="737" height="455" alt="2026-05-15_175437" src="https://github.com/user-attachments/assets/fbfe98f9-d3d6-4de4-9e77-f4caa28ad15f" />
+<img width="2308" height="1289" alt="2026-05-15_180348" src="https://github.com/user-attachments/assets/04d1c8b3-dc76-4618-ba83-f4b80b6a3709" />
